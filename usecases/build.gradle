@@ -36,6 +36,7 @@ dependencies {
 
     api project(':entities')
     api 'android.arch.lifecycle:extensions:1.1.1'
+   // testapi "android.arch.core:core-testing:1.1.1"
 }
 repositories {
     mavenCentral()
