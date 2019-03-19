@@ -19,7 +19,7 @@ class RandomizerActivity : FragmentActivity() {
         viewModel.numberLiveData.observe(this,
             Observer {  random_number_textView.text = it.toString() })
 
-
+//tom
 
 
     }
